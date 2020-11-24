@@ -5,7 +5,7 @@
 - `.nvmrc` support.
 - Seamless shell integration. <kbd>Tab</kbd>-completions? You got them.
 - No dependencies, no subshells, no configuration setup, no fluff—it's so easy it hurts.
-- Because nvm.fish runs natively by fish, it's insanely fast ([see this discussion](https://github.com/jorgebucaran/fish-nvm/issues/82)).
+- Because nvm.fish runs natively by fish, it's insanely fast ([see this discussion](https://github.com/jorgebucaran/nvm.fish/issues/82)).
 
 ![](https://gistcdn.githack.com/jorgebucaran/00f6d3f301483a01a00e836eb17a2b3e/raw/26625256b5e5ccb632f990727db70055ae24e584/nvm.fish.svg)
 
